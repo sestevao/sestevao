@@ -6,7 +6,7 @@ Hi there! :octocat:
 - 👀 I’m interested in new technologies and developing software solutions.
 - 🎓 Studying Full Stack Web Developer.
 
-I ❤️️ ☕ !
+I ❤️️ ☕ && 🎵 !
 
 <!---
 susanaestevao/susanaestevao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
