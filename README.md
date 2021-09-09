@@ -4,7 +4,7 @@ Hi there! :octocat:
 - 🌱 I’m currently learning and trying to expand my knowledge in Node.js, React JS, React Native.
 - 📖 I already worked with PHP for a few years.
 - 👀 I’m interested in new technologies and developing software solutions.
-- 🎓 Studying Full Stack Web Developer.
+- 🎓 Studying and focused on being a Full Stack Web Developer.
 
 I ❤️️ ☕ && 🎵 !
 
