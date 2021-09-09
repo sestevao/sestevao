@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Susana Estevao.
-- 🔭 I’m currently learning node.js, ReactJS.
+- 🔭 I’m currently learning node.js, ReactJS, React Native.
 - 👀 I’m interested in new technologies and developing software solutions.
-- 🤔 Exploring new technologies ever.
 - 🎓 Studying Full Stack Web Developer.
 
 <!---
