@@ -2,7 +2,7 @@
 
 <p>👋 Hi, I’m Susana Estevao.</p>
 <p>🌱 I’m currently learning and trying to expand my knowledge in Node.js, React JS, React Native.<p>
-<p>📖 I already worked with HTML, CSS, JS and PHP for a few years.<p>
+<p>📖 I already worked with HTML, CSS, JS and PHP for a few years at university.<p>
 <p>👀 I’m interested in new technologies and developing software solutions.<p>
 <p>🎓 Studying and focused on being a Full Stack Web Developer.<p>
 
