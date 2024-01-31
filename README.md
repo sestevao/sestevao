@@ -1,14 +1,32 @@
-<h1>:octocat: Hi there!  :octocat: </h1>
+# 👋 :octocat: Hey, I'm Susana Estevao!
 
-<p>👋 Hi, I’m Susana Estevao.</p>
-<p>🌱 I’m currently learning and trying to expand my knowledge in Node.js, React JS, React Native.<p>
-<p>📖 I already worked with HTML, CSS, JS and PHP for a few years at university.<p>
-<p>👀 I’m interested in new technologies and developing software solutions.<p>
-<p>🎓 Studying and focused on being a Full Stack Web Developer.<p>
+Web developer by day, coding enthusiast by night. I've navigated the coding trenches, accumulating experience in **Laravel**, **JavaScript**, and a touch of **WordPress**.
 
-<h3>I ❤️️ ☕ && 🎵 !</h3>
+## 🚀 What I'm All About:
 
-<!---
-susanaestevao/susanaestevao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 University graduate with a toolkit in **HTML**, **CSS**, **JS**, **PHP**.
+- 💻 Currently a Web Developer at a Full Service Digital Marketing company, where I focus on Laravel, Javascript, and explore WordPress.
+- 👩‍💻 Progressing through the ranks, currently grappling with **Laravel**, **ReactJS**, **NodeJS**, **Python**.
+- 💡 Transforming coffee-fueled ideas into code.
+
+## 🌱 Currently:
+
+- 🔭 Managing projects that keep me on my toes.
+- 📚 Always learning – the tech world waits for no one!
+- 🎯 Still on the journey to becoming a seasoned Full Stack Web Developer.
+
+## 🛠️ My Toolbox:
+
+- **Frontend:** HTML, CSS, JavaScript, React JS 
+- **Backend:** Laravel, Node.js 
+- **Design:** Tailwind CSS, Figma
+- **Database:** MySQL
+- **Version Control:** GitHub
+- **Other:** RESTful APIs
+
+## ❤️ Fun Stuff:
+
+- ☕ Coffee aficionado.
+- 🎵 Coding spells woven to the beats.
+
+Let's chat about coding, tech, or whatever piques your interest. Explore my repos and feel free to reach out anytime! 👩‍💻✌️
