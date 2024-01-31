@@ -1,6 +1,6 @@
 # 👋 :octocat: Hey, I'm Susana Estevao!
 
-Web developer by day, coding enthusiast by night. I've navigated the coding trenches, accumulating experience in **Laravel**, **JavaScript**, and a touch of **WordPress**.
+Web developer by day and a coding enthusiast in my free time. I've navigated the coding trenches, accumulating experience in **Laravel**, **JavaScript**, and a touch of **WordPress**.
 
 ## 🚀 What I'm All About:
 
