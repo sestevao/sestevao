@@ -1,6 +1,6 @@
 # 👋 :octocat: Hey, I'm Susana Estevao!
 
-Web developer by day and a coding enthusiast in my free time. I've navigated the coding trenches, accumulating experience in **Laravel**, **JavaScript**, and a touch of **WordPress**.
+Web developer by day and a coding enthusiast in my free time. I've navigated the coding trenches, accumulating experience in **Laravel**, **JavaScript**, **VueJS** and a touch of **WordPress**.
 
 ## 🚀 What I'm All About:
 
@@ -17,7 +17,7 @@ Web developer by day and a coding enthusiast in my free time. I've navigated the
 
 ## 🛠️ My Toolbox:
 
-- **Frontend:** HTML, CSS, JavaScript, React JS 
+- **Frontend:** HTML, CSS, JavaScript, React JS, VueJS
 - **Backend:** Laravel, Node.js 
 - **Design:** Tailwind CSS, Figma
 - **Database:** MySQL
